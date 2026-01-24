@@ -33,17 +33,16 @@ Verification of the **OSPF** neighbor states and the **Core Router** (TOP) inter
 
 | Core Router Interface Brief | OSPF Neighbor States |
 |---|---|
-| ![Interface Status](./11_ospf_routing_table_verification.png) | ![OSPF Neighbors](./14_core_router_top_ospf_neighbors.png) |
+| ![Interface Status](./11_ospf_routing_table_verification.png) | ![OSPF Neighbors](./15_core_router_top_ospf_neighbors.png) |
 
 ---
 
 ### 3. Redundancy Verification (HSRP)
 This evidence confirms that the network remains operational even if a primary switch fails. The **Active/Standby** roles are correctly assigned between distribution layers.
 
-![HSRP Status](./13_hsrp_redundancy_state.png)
-*Figure: HSRP verification on Distribution Switches.*
 
----
+![HSRP Status](./13_hsrp_redundancy_state_SW1.png)  ![HSRP Status](./14_hsrp_redundancy_state_SW2.png)  
+*Figure: HSRP verification on Distribution Switches.*
 
 ### 4. Security & Access Control
 Proof of **SSH** secure management and **ACL** policy enforcement. The "Security Test" below demonstrates the successful blocking of unauthorized inter-VLAN traffic.
