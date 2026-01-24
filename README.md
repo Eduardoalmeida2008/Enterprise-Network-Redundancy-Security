@@ -24,7 +24,7 @@ This project represents a full-scale enterprise network simulation developed in 
 ### 1. Network Topology
 The foundation of the project, illustrating the logical and physical connections between the buildings and the data center.
 
-![Network Topology](./01_physical_topology.png)
+![Network Topology](./01_network_physical_topology.png)
 
 ---
 
@@ -33,7 +33,7 @@ Verification of the **OSPF** neighbor states and the **Core Router** (TOP) inter
 
 | Core Router Interface Brief | OSPF Neighbor States |
 |---|---|
-| ![Interface Status](./08_core_router_ip.png) | ![OSPF Neighbors](./14_core_router_top_ospf_neighbors.png) |
+| ![Interface Status](./11_ospf_routing_table_verification.png) | ![OSPF Neighbors](./14_core_router_top_ospf_neighbors.png) |
 
 ---
 
