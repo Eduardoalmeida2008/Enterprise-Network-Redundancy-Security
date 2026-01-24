@@ -63,7 +63,7 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 
 ## 📂 Repository Structure
 * `/configs`: Cisco Packet Tracer source file (.pkt).
-* `/screenshots`: Full documentation of configuration and verification steps (20 images).
+* `/screenshots`: Full documentation of configuration and verification steps (21 images).
 * `README.md`: Detailed project documentation.
 
 ---
