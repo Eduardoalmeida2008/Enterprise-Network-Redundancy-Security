@@ -47,7 +47,7 @@ This evidence confirms that the network remains operational even if a primary sw
 ### 4. Security & Access Control
 Proof of **SSH** secure management and **ACL** policy enforcement. The "Security Test" below demonstrates the successful blocking of unauthorized inter-VLAN traffic.
 
-![Security Test](./18_security_test_denied.png)
+![Security Test](./19_security_test_denied.png)
 *Figure: Ping blocked by ACL (Destination Host Unreachable).*
 
 ---
@@ -77,7 +77,7 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 
 ## 📜 Final Configuration Save
 All devices have been committed to NVRAM to ensure persistence.
-![Config Backup](./20_system_config_backup.png)
+![Config Backup](./21_system_config_backup.png)
 
 **Developed by:** Eduardo  
 **Date:** January 2026  
