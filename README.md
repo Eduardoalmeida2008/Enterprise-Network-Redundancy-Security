@@ -58,7 +58,7 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 
 | PDU Layer Analysis | DHCP Success |
 |---|---|
-| ![PDU Analysis](./15_pdu_layer_analysis.png) | ![DHCP Success](./06_dhcp_success_validation.png) |
+| ![PDU Analysis](./15_pdu_layer_analysis.png) | ![DHCP Success](./06_pc_dhcp_success_validation.png) |
 
 ---
 
