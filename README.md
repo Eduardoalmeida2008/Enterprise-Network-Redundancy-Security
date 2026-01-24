@@ -40,7 +40,7 @@ Verification of the **OSPF** neighbor states and the **Core Router** (TOP) inter
 ### 3. Redundancy Verification (HSRP)
 This evidence confirms that the network remains operational even if a primary switch fails. The **Active/Standby** roles are correctly assigned between distribution layers.
 
-![HSRP Status](./13_hsrp_redundancy_png)
+![HSRP Status](./13_hsrp_redundancy_state.png)
 *Figure: HSRP verification on Distribution Switches.*
 
 ---
