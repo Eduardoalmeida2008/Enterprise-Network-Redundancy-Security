@@ -47,7 +47,7 @@ This evidence confirms that the network remains operational even if a primary sw
 ### 4. Security & Access Control
 Proof of **SSH** secure management and **ACL** policy enforcement. The "Security Test" below demonstrates the successful blocking of unauthorized inter-VLAN traffic.
 
-![Security Test](./17_security_test_denied.png)
+![Security Test](./18_security_test_denied.png)
 *Figure: Ping blocked by ACL (Destination Host Unreachable).*
 
 ---
@@ -57,7 +57,7 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 
 | PDU Layer Analysis | DHCP Success |
 |---|---|
-| ![PDU Analysis](./15_pdu_layer_analysis.png) | ![DHCP Success](./06_pc_dhcp_success_validation.png) |
+| ![PDU Analysis](./16_pdu_layer_analysis.png) | ![DHCP Success](./06_pc_dhcp_success_validation.png) |
 
 ---
 
@@ -77,4 +77,4 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 
 ## 📜 Final Configuration Save
 All devices have been committed to NVRAM to ensure persistence.
-![Config Backup](./19_system_config_backup.png)
+![Config Backup](./20_system_config_backup.png)
