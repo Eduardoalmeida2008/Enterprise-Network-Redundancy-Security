@@ -78,3 +78,7 @@ Using the Simulation Mode to perform deep packet inspection (PDU analysis) and v
 ## 📜 Final Configuration Save
 All devices have been committed to NVRAM to ensure persistence.
 ![Config Backup](./20_system_config_backup.png)
+
+**Developed by:** Eduardo  
+**Date:** January 2026  
+**Project:** Network Infrastructure Simulation (Project 15)
